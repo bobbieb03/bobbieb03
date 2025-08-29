@@ -12,7 +12,7 @@ Hi, I'm Bobbie, I am new to programming and am looking forward to getting starte
 
 
 <details closed>
-<summary> My top Hobbies</summary>
+<summary> My Top Hobbies</summary>
 
  | Rank | Hobbies |
 |-----:|---------------|
