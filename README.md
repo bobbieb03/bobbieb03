@@ -7,35 +7,42 @@
 **bobbieb03/bobbieb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ##About Me
 <!There is much more to know about me :) -->
+
 Hi, I'm Bobbie, I am new to programming and am looking forward to getting started!
 
-<details open>
+
+<details closed>
 <summary> My top Hobbies</summary>
-| Rank | THING-TO-RANK |
+| Rank | Hobbies |
 |-----:|---------------|
-|     1|      Dancing/Enjoying Musci         |
+|     1|      Dancing/Enjoying Music         |
 |     2|      Crocheting         |
 |     3|      Yoga         |
 
 </details>
 
 
-<details open> 
+<details closed> 
 <summary> Inspiration</summary>
----
+
 >If we pull together and commit ourselves, then we can push through anything.
 
     — Mona the Octocat
 </details>
 
     
-<details open> 
+<details closed> 
  <summary> More stuff</summary>
 - 🔭 I’m currently working on everything school related
+ 
 - 🌱 I’m currently learning how to code
+  
 - 🤔 I’m looking for help with coding...
+  
 - 💬 Ask me about why tea is the best drink
+  
 - 📫 How to reach me: beep me
+  
 - 😄 Pronouns: she/her
 </details>
 
