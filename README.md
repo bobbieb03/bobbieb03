@@ -13,7 +13,8 @@ Hi, I'm Bobbie, I am new to programming and am looking forward to getting starte
 
 <details closed>
 <summary> My top Hobbies</summary>
-| Rank | Hobbies |
+
+ | Rank | Hobbies |
 |-----:|---------------|
 |     1|      Dancing/Enjoying Music         |
 |     2|      Crocheting         |
@@ -33,7 +34,8 @@ Hi, I'm Bobbie, I am new to programming and am looking forward to getting starte
     
 <details closed> 
  <summary> More stuff</summary>
-- 🔭 I’m currently working on everything school related
+
+ - 🔭 I’m currently working on everything school related
  
 - 🌱 I’m currently learning how to code
   
